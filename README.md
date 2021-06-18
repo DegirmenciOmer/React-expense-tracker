@@ -1,9 +1,7 @@
 # React-expense-tracker
 
-
-
-- Create a color game using DOM Manipulation of JavaScript.
-- Working site : https://colorgamebyomer.netlify.app
+- Create an expense tracker app game using hooks (useState, useContext, useReducer) and the context API.
+- Working site : https://expensetracker-omer.netlify.app
 
 ## Table of contents
 
@@ -15,38 +13,20 @@
 
 ## General info
 
-- This project is built to improve Javascript DOM Manipulation and CSS skills.
-- The [original web app](https://www.udemy.com/the-web-developer-bootcamp) was created by Colt Steele
+- The [original web app](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&t=1883s) was created by Brad Traversy
 
 ## Technologies
 
-- HTML
-- CSS
-- Javascript
+- React
 
 # Clone this repository
 
-\$ git clone https://github.com/DegirmenciOmer/Color-Game-JS.git
+\$ git clone https://github.com/DegirmenciOmer/React-expense-tracker.git
 
 ## Features
 
-- Test your knowledge of RGB color codes.
-- Look at the number above, and guess which square matches the RGB code.
-- Easy and Hard options.
-- If your guess is incorrect then the color you click disappears.
-- If you click on the correct option all the color fields are colored with the correct RGB.
-
-(Hint: Remember the first number indicates the amount of RED, the second number indicates the amount of GREEN, and the third number indicates the amount of BLUE.)
+-
 
 ## Screenshots
-<img src="./assets/Hard.png" width="400" />
-<br/> 
-<img src="./assets/easy.png" width="400" />
-
 
 ## On mobile :
-
-<img src="./assets/mobile-hard.jpeg" width="100" /> 
-<br/> 
-<img src="./assets/mobile-easy.jpeg" width="100" />
-
