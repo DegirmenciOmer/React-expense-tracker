@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-image: linear-gradient( 135deg, #E2B0FF 50%, #b558eb 90%);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,7 +41,7 @@ h4 {
 }
 
 .inc-exp-container {
-  background-color: #fff;
+  background-color: hsl(249, 94%, 87%);
   box-shadow: var(--box-shadow);
   padding: 20px;
   display: flex;
