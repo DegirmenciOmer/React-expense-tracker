@@ -146,6 +146,10 @@ input[type='number'] {
   transition: opacity 0.3s ease;
 }
 
+.radio-input{
+  margin-right: 50px;
+}
+
 .list li:hover .delete-btn {
   opacity: 1;
 }
