@@ -25,6 +25,12 @@
 
 \$ git clone https://github.com/DegirmenciOmer/React-expense-tracker.git
 
+\$ cd client
+
+\$ npm i
+
+\$ npm start
+
 
 
 ## Screenshots
